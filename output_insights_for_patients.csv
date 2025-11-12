@@ -1,0 +1,69 @@
+patient_id,patient_name,medications_prescribed,conditions_identified,symptoms_noted,doctor_instructions,follow_up_actions
+101,John Doe,None documented,None documented,None documented,"---
+
+Family anxious | send wood culture, start bankomacinal, consult surgery",surgery
+102,Jane Smith,pen,fracture,None documented,Please consult your discharge paperwork for detailed instructions,No specific follow-up documented. Contact your provider if symptoms worsen.
+103,Robert Brown,antibiotics,respiratory acid,None documented,"admit to cardiac unit, consult cardiology | ---
+
+Started on IV antibiotics",cardiology
+104,Maria Garcia,insulin,None documented,None documented,"---
+
+Started on insulin drip per protocol",No specific follow-up documented. Contact your provider if symptoms worsen.
+105,David Lee,None documented,has,None documented,"---
+
+NIH Stroke Scale: 12",No specific follow-up documented. Contact your provider if symptoms worsen.
+106,Sarah Chen,None documented,"depressive episode, major depressive disorder",None documented,"admit to psychiatrist start one to one observation
+VITALS: N/A
+
+--- KEY LABS ---
+
+Amylase: 950 U/L (High) | ---
+
+Receiving IV fluids and pain management",No specific follow-up documented. Contact your provider if symptoms worsen.
+107,Michael Johnson,"lysino, pryl",ocond,None documented,Please consult your discharge paperwork for detailed instructions,cardiology for an urgent cardia characterization
+108,Emily White,secret,None documented,None documented,"---
+
+Suctioned for secretions PRN | and pivot for surgery, or the consult for fixation and manage pain with PCA post-op",for fixation and manage pain with PCA post-op
+109,Kevin Patel,None documented,None documented,None documented,"---
+
+Safety plan",No specific follow-up documented. Contact your provider if symptoms worsen.
+110,Jessica Davis,"eggs, penicillin, tromy",None documented,None documented,"admit to floor start 4, septary, eggsone and ezytromycin, continue oxygen | ---
+
+Receiving Penicillin G for GBS prophylaxis",No specific follow-up documented. Contact your provider if symptoms worsen.
+201,Srinivas,None documented,kidney disease,None documented,Please consult your discharge paperwork for detailed instructions,No specific follow-up documented. Contact your provider if symptoms worsen.
+202,Ranjan,"icillin, pen",None documented,None documented,"---
+
+Will start penicillin",No specific follow-up documented. Contact your provider if symptoms worsen.
+203,Pardhu,None documented,None documented,None documented,"---
+
+lumbar spine MRI",No specific follow-up documented. Contact your provider if symptoms worsen.
+205,Ramana,None documented,None documented,None documented,"(2 units PRBC) (null)
+
+--- ASSESSMENT ---
+
+Severe Anemia
+
+--- PLAN ---
+
+Admitting to hospital for 2 units packed red blood cell transfusion",No specific follow-up documented. Contact your provider if symptoms worsen.
+206,Vinuthana,omeprazole,None documented,None documented,"---
+
+Started on daily omeprazole trial",No specific follow-up documented. Contact your provider if symptoms worsen.
+207,Akanksha,None documented,None documented,None documented,"---
+
+Transferring to ER for further monitoring",No specific follow-up documented. Contact your provider if symptoms worsen.
+208,Roy,None documented,None documented,None documented,"---
+
+States symptoms are interfering with her work",No specific follow-up documented. Contact your provider if symptoms worsen.
+209,Pataan,None documented,None documented,None documented,"in 6 weeks (null)
+
+--- ASSESSMENT ---
+
+weight gain
+
+--- PLAN ---
+
+Follow-up TSH lab scheduled for 6 weeks",6 weeks | TSH lab scheduled for 6 weeks
+210,Maddy,None documented,None documented,None documented,"---
+
+RICE protocol initiated",No specific follow-up documented. Contact your provider if symptoms worsen.

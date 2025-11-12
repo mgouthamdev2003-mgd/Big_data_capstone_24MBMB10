@@ -1,0 +1,20 @@
+patient_id,patient_problem,vitals,assessment,plan
+101,chest pain,null,8/10 chest pain,Family anxious
+102,pain,null,Vitals stable,null
+103,cough and fever,null,92%,Started on IV antibiotics
+104,DKA,null,Diabetes educator consulted,Started on insulin drip per protocol
+105,aphasia,null,NIH Stroke Scale: 12,NIH Stroke Scale: 12
+106,acute-onset abdominal pain,null,Receiving IV fluids and pain management,Receiving IV fluids and pain management
+107,infection,null,null,null
+108,respiratory distress,null,Suctioned for secretions PRN,Suctioned for secretions PRN
+109,suicidal ideation,null,null,Safety plan
+110,"Patient is 39 weeks, admitted in active labor",null,Epidural placed,Receiving Penicillin G for GBS prophylaxis
+201,fatigue,BP 160/90,Stage 4 Chronic Kidney Disease,null
+202,sore throat and fever,Temp 102,Rapid strep test,Will start penicillin
+203,lower back pain,null,Suspected herniated disc with sciatica,lumbar spine MRI
+205,dizziness,null,Severe Anemia,Admitting to hospital for 2 units packed red blood cell transfusion
+206,burning chest pain,null,GERD,Started on daily omeprazole trial
+207,difficulty breathing,null,Transferring to ER,Transferring to ER for further monitoring
+208,panic attacks,null,GAD,States symptoms are interfering with her work
+209,weight gain,null,weight gain,Follow-up TSH lab scheduled for 6 weeks
+210,Suspect fracture,null,null,RICE protocol initiated
