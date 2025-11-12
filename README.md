@@ -58,12 +58,10 @@ The system focuses on automating medical documentation, generating summaries, an
 | Category | Tools / Frameworks |
 |-----------|--------------------|
 | Programming | Python, PySpark |
-| Big Data Processing | Apache Spark |
 | Machine Learning | Spark MLlib |
 | Data Handling | Pandas, NumPy |
 | NLP & Text Analytics | Spark NLP |
-| Visualization | Matplotlib / Seaborn |
-| Environment | Jupyter Notebook, Hadoop Cluster |
+| Environment | Databricks |
 
 ---
 
